@@ -1,0 +1,119 @@
+{
+  "Books Categories": {
+    "Thriller Books": [
+      {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "imageLink": "images/the-brothers-karamazov.jpg",
+        "language": "Russian",
+        "price": "35$",
+        "pages": 824,
+        "year": 1880
+      },
+      {
+        "title": "The Decameron",
+        "author": "Giovanni Boccaccio",
+        "imageLink": "images/the-decameron.jpg",
+        "language": "Italian",
+        "price": "28$",
+        "pages": 1024,
+        "year": 1351
+      },
+      {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "country": "Algeria, French Empire",
+        "imageLink": "images/l-etranger.jpg",
+        "language": "French",
+        "price": "14$",
+        "pages": 185,
+        "year": 1942
+      },
+      {
+        "title": "Nostromo",
+        "author": "Joseph Conrad",
+        "imageLink": "images/nostromo.jpg",
+        "language": "English",
+        "price": "42$",
+        "pages": 320,
+        "year": 1904
+      }
+    ],
+    "Classic Books": [
+      {
+        "title": "Don Quijote De La Mancha",
+        "author": "Miguel de Cervantes",
+        "imageLink": "images/don-quijote-de-la-mancha.jpg",
+        "language": "Spanish",
+        "price": "25$",
+        "pages": 1056,
+        "year": 1610
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "imageLink": "images/pride-and-prejudice.jpg",
+        "language": "English",
+        "price": "37$",
+        "pages": 226,
+        "year": 1813
+      },
+      {
+        "title": "One Thousand and One Nights",
+        "author": "Unknown",
+        "imageLink": "images/one-thousand-and-one-nights.jpg",
+        "language": "Arabic",
+        "price": "40$",
+        "pages": 288,
+        "year": 1200
+      },
+      {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "imageLink": "images/the-divine-comedy.jpg",
+        "language": "Italian",
+        "price": "25$",
+        "pages": 928,
+        "year": 1315
+      }
+    ],
+    "Romance Books": [
+      {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "imageLink": "images/madame-bovary.jpg",
+        "language": "French",
+        "price": "23$",
+        "pages": 528,
+        "year": 1857
+      },
+      {
+        "title": "Sentimental Education",
+        "author": "Gustave Flaubert",
+        "imageLink": "images/l-education-sentimentale.jpg",
+        "language": "French",
+        "price": "33$",
+        "pages": 606,
+        "year": 1869
+      },
+      {
+        "title": "Gypsy Ballads",
+        "author": "Federico García Lorca",
+        "imageLink": "images/gypsy-ballads.jpg",
+        "language": "Spanish",
+        "price": "45$",
+        "pages": 218,
+        "year": 1928
+      },
+      {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez",
+        "imageLink": "images/love-in-the-time-of-cholera.jpg",
+        "language": "Spanish",
+        "price": "18$",
+        "pages": 368,
+        "year": 1985
+      }
+    ]
+  }
+}
